@@ -1,0 +1,51 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="top"
+    android:orientation="vertical"
+    tools:context=".MainActivity" >
+
+    <include
+        android:layout_width="236dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        layout="@layout/primer" />
+
+    <include
+        android:layout_width="277dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="2dp"
+        layout="@layout/cajaboton" />
+
+    <include
+        android:layout_width="190dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        layout="@layout/tercer"
+        />
+    
+    <include
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" 
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp" 
+        layout="@layout/barra" />
+    
+    <include
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        layout="@layout/cuarto" />
+    
+    <include
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:layout_marginTop="10dp"
+        layout="@layout/quinto" />
+        
+    
+</LinearLayout>

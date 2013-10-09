@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Control1</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="foo">Foo</string>
+    <string name="this_option1">This is the option 1</string>
+    <string name="this_option2">This is the option 2</string>
+    <string name="this_option3">This is the option 3</string>
+    <string name="textoclave">Password here!</string>
+    <string name="contrasena">abcdef</string>
+     
+  
+
+</resources>
